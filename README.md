@@ -8,7 +8,7 @@ Welcome to my coding journey! I am a Computer Science student dedicated to maste
 The mission is to write and share a new piece of code every 48 hours for the next 100 days. This repository serves as a timeline of my growth, logic building, and problem-solving skills.
 
 ## 🛠 Tech Stack
-- Languages: Python / C++ (Currently Learning)
+- Languages:  C (Currently Learning)
 - Tools: GitHub, VS Code
 - Focus: Algorithms, Data Structures, and AI Fundamentals
 - # 📅 Progress Log

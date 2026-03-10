@@ -19,5 +19,6 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |05| arrays in 2 dimensions|
 |06| the hollow hourglass|
 |07| Simple-C-TicTacToe|
+|08| the Fibonacci sequence with conditional filters|
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

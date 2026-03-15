@@ -22,5 +22,6 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |08| the Fibonacci sequence with conditional filters|
 |09| (learning basics of python)|
 |10| build a report card printer|
+|11| employee profile generator|
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

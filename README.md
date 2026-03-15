@@ -9,8 +9,8 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 
 ## 🛠 Tech Stack
 - Languages:  C (Currently Learning)
-- Tools: GitHub, VS Code
-- Focus: Algorithms, Data Structures, and AI Fundamentals
+- Tools: GitHub, VS Code, PYcharm, freecodecampus
+- Focus: c and python languages
 - # 📅 Progress Log
 |01|quadratic equation solution|
 |02| bmi calculator|

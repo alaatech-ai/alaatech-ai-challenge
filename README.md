@@ -25,5 +25,6 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |11| employee profile generator|
 |12| build a bill splitter |
 |13| building 2 tasks: task1(basic calculator) & task2(matrix calculator: +,* and transpose)|
+|14| building a movie ticket booking calculator|
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

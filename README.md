@@ -36,7 +36,6 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 - [x] Pointer Arithmetic: Understanding how to navigate memory.
 - [x] Function Scoping: Mastering local vs global variables.
 - [x] Memory Management: Learning the 'low-level' way of doing things.|
-      
 |21| pointer power up|
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

@@ -37,6 +37,7 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 - [x] Function Scoping: Mastering local vs global variables.
 - [x] Memory Management: Learning the 'low-level' way of doing things.|
  
+
 |21| pointer power up|
 |22| lists application in py|
 ---

@@ -46,5 +46,6 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |26| build a pin extractor|
 |27| build a number pattern generator|
 |28| smart task analyserin c|
+|29| power functions in c|
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

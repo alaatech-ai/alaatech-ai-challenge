@@ -50,6 +50,7 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |30| rebuilding day 1(with function) quadratic eq in c|
 |31| revision about:pointers, arrays & string library|
 |32| gcd & lcm calculator in C|
+|33| program that does: avg og even, odd& all the elements of an array(A), displays the min ele of A as well as the nb of times it occures|
 
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
